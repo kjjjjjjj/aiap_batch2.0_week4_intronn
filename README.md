@@ -8,13 +8,13 @@
 
 ## Assigment Materials
 
-### Part 1: Basics of Neural Networks (35 points)
+### Part 1: Basics of Neural Networks 
 The section of the Notebook `Problem_1.ipynb` will walk you through implementing the basic neural networks.
 
-### Part 2: Getting familiar with TensorFlow (25 points)
+### Part 2: Getting familiar with TensorFlow 
 The section of the Notebook `Problem_2.ipynb` will help you have a better understanding of implementing a simple ConvNet in Tensorflow.
 
-### Part 3: Training and Fine-tuning on Fashion MNIST and MNIST (15 points)
+### Part 3: Training and Fine-tuning on Fashion MNIST and MNIST 
 The section of the Notebook `Problem_3.ipynb` will walk you through training a neural network from scratch on a datase and fine-tuning on another dataset.
 
 
