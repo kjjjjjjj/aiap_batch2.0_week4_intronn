@@ -1,6 +1,6 @@
 Working on the assignment in a virtual environment is highly encouraged. Please see below for executing a virtual environment.
 
-cd assignment1
+cd aiap_batch2.0_week4_intronn
 sudo pip install virtualenv # If you didn't install it
 virtualenv /your/path/to/the/virtual/env
 source  /your/path/to/the/virtual/env/bin/activate
